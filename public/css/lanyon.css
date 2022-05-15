@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: nowrap;
   padding-bottom: 4rem;
   margin-top: -1px;
-  margin-bottom: 3px;
+  margin-bottom: 3.5px;
   overflow-x: auto;
   text-align: center;
   white-space: nowrap;
