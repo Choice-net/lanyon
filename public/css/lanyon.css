@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   -ms-flex-wrap: nowrap;
   flex-wrap: nowrap;
-  padding-bottom: 1rem;
+  padding-bottom: 4rem;
   margin-top: -1px;
   overflow-x: auto;
   text-align: center;
