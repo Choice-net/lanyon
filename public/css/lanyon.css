@@ -100,8 +100,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title small {
-  font-size: 30%;
-  font-weight: 350;
+  font-size: 75%;
+  font-weight: 150;
   color: #c0c0c0;
   letter-spacing: 0;
 }
