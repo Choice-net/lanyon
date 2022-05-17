@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6 {
   
 .page,
 .post {
-  margin-bottom: 3em;
+  margin-bottom: 1rem;
 }
 
 /* Blog post or page title */
